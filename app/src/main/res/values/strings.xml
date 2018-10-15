@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">ShakeDetector</string>
+    <string name="start_writing_data">Старт</string>
+
+    <string name="save_data">Отправить</string>
+
+    <string name="stop_writing">Stop writing data</string>
+    <string name="item1">Item1</string>
+    <string name="item2">Item2</string>
+    <string name="item3">Item3</string>
+    <string name="item4">Item4</string>
+    <string name="start">это стартовая активити</string>
+    <string name="settings">Настройки</string>
+
 </resources>

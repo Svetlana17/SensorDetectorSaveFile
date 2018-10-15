@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/line_gyroscope"
+        android:orderInCategory="1"
+        android:title="Gyroscope" />
+    <item
+        android:id="@+id/line_accelerometr"
+        android:orderInCategory="2"
+        android:title="accelerometr" />
+    <item
+        android:id="@+id/line_accelerometr_geroscope"
+        android:orderInCategory="3"
+        android:title="acceler and geros" />
+</menu>
