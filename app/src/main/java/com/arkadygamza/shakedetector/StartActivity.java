@@ -285,6 +285,4 @@ public class StartActivity extends AppCompatActivity
         emailIntent.putExtra(Intent.EXTRA_STREAM, Uri.parse("file://" + file));
         startActivity(Intent.createChooser(emailIntent, "Send data"));
     }
-
-
 }

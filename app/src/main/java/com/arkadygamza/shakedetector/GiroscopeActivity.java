@@ -217,6 +217,7 @@ public class GiroscopeActivity extends AppCompatActivity {
     }
 
 
+
     SensorEventListener listener = new SensorEventListener() {
         @Override
         public void onAccuracyChanged(Sensor sensor, int accuracy) {
