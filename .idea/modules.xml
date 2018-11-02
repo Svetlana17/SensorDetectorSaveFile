@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/SensorDetectorSaveFile.iml" filepath="$PROJECT_DIR$/.idea/SensorDetectorSaveFile.iml" />
       <module fileurl="file://$PROJECT_DIR$/ShakeDetector.iml" filepath="$PROJECT_DIR$/ShakeDetector.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/ShakeDetectorfffffffffffff.iml" filepath="$PROJECT_DIR$/.idea/ShakeDetectorfffffffffffff.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />

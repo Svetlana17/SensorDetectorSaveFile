@@ -51,6 +51,7 @@ public class StartActivity extends AppCompatActivity
     private final static int UPDATE_TIME = 400;
     private boolean writingData = false;
     private float[] valuesAccel = new float[3];
+    
     private float[] valuesGiroscope = new float[3];
     Button one;
     public String state = "DEFAULT";
@@ -219,7 +220,13 @@ public class StartActivity extends AppCompatActivity
 
 
     String format(float values[]) {
-        return String.format(Locale.US, "%1$.2f\t\t%2$.2f\t\t%3$.2f", values[0], values[1], values[2]);
+   return String.format(Locale.US, "%1$.2f\t\t%2$.2f\t\t%3$.2f", values[0], values[1], values[2]);//0- original-
+
+
+
+
+
+       // return String.format(Locale.US, "%1$.2f\t\t%2$.2f\t\t%3$.2f", values[0], values[1], values[2]);
     }
 
     void showInfo() {
